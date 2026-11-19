@@ -1,0 +1,12 @@
+[
+  { "name": "Pooja Thali Sets", "slug": "pooja-thali-sets", "active": true },
+  { "name": "Copper Bottles", "slug": "copper-bottles", "active": true },
+  { "name": "Diyas & Lamps", "slug": "diyas-lamps", "active": true },
+  { "name": "Kalash & Lota", "slug": "kalash-lota", "active": true },
+  { "name": "Idols", "slug": "idols", "active": true },
+  { "name": "Bells", "slug": "bells", "active": true },
+  { "name": "Havan Items", "slug": "havan-items", "active": true },
+  { "name": "Brass Utensils", "slug": "brass-utensils", "active": true },
+  { "name": "Pooja Accessories", "slug": "pooja-accessories", "active": true },
+  { "name": "Decor & Gifts", "slug": "decor-gifts", "active": true }
+]

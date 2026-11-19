@@ -1,0 +1,47 @@
+[
+  {
+    "id": "HM-ORD-841920",
+    "customer": "Meera Iyer",
+    "phone": "+91 97412 33445",
+    "address": "14, 2nd Cross, Indiranagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560038",
+    "items": "Handcrafted Brass Pooja Thali Set (Qty: 1), Brass Diya Set (Qty: 2)",
+    "total": 2497,
+    "paymentMethod": "Prepaid (UPI)",
+    "date": "18 Nov 2026",
+    "status": "delivered",
+    "createdAt": "2026-11-17T18:46:38.154Z"
+  },
+  {
+    "id": "HM-ORD-752109",
+    "customer": "Rajesh Sharma",
+    "phone": "+91 98260 11223",
+    "address": "72, Saket Nagar",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "items": "Pure Copper Water Bottle 1 Litre (Qty: 2)",
+    "total": 1498,
+    "paymentMethod": "COD",
+    "date": "19 Nov 2026",
+    "status": "shipped",
+    "createdAt": "2026-11-18T18:46:38.154Z"
+  },
+  {
+    "id": "HM-ORD-623941",
+    "customer": "Ananya Verma",
+    "phone": "+91 98260 44556",
+    "address": "28, Mahakal Marg, Freeganj",
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "pincode": "456010",
+    "items": "Handcrafted Brass Temple Bell with Nandi (Qty: 1)",
+    "total": 899,
+    "paymentMethod": "COD",
+    "date": "20 Nov 2026",
+    "status": "packed",
+    "createdAt": "2026-11-19T18:46:38.154Z"
+  }
+]

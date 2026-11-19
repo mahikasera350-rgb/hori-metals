@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@tailwind base; @tailwind components; @tailwind utilities;
+:root{--ink:#0A0A0A;--muted:#4A4A4A;--soft:#8A8A8A;--line:#E5E5E5;--wash:#F7F7F7;--gold:#B8860B}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#fff;color:var(--ink);font-family:Inter,Arial,sans-serif}.focus-ring:focus-visible{outline:2px solid #0A0A0A;outline-offset:3px}.hide-scrollbar::-webkit-scrollbar{display:none}.hide-scrollbar{scrollbar-width:none}.metal-img{transition:transform .45s cubic-bezier(.2,.8,.2,1)}.group:hover .metal-img{transform:scale(1.035)}
+
+/* Toast animation */
+@keyframes toast-in{
+  0%{opacity:0;transform:translate(-50%,12px)}
+  100%{opacity:1;transform:translate(-50%,0)}
+}
+.animate-toast-in{animation:toast-in .25s ease-out}
+
+/* Hero overlay gradient */
+.hero-gradient{background:linear-gradient(to right,rgba(0,0,0,.55) 0%,rgba(0,0,0,.25) 60%,transparent 100%)}
+
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.metal-img{transition:none}.motion-safe-only{display:none!important}}
